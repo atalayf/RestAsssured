@@ -15,6 +15,8 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
 public class RESTAssuredGET {
+	
+	// added this line online
 
 	final static String ROOT_URI = "http://restapi.demoqa.com/utilities/weatherfull/city/ankara";
 

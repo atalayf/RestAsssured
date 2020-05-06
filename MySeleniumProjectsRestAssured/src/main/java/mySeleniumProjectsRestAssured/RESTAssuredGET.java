@@ -25,7 +25,7 @@ public class RESTAssuredGET {
 	String[] cities = { "/Ankara", "/Bursa", "/Adana" };
 	public String city;
 	
-	//First edit
+	
 	@Test
 	
 	void myCityLoop() {

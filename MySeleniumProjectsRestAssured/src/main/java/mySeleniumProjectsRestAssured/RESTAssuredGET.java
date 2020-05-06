@@ -2,10 +2,6 @@ package mySeleniumProjectsRestAssured;
 
 import org.testng.Assert;
 
-//import static io.restassured.RestAssured.delete;
-//import static io.restassured.RestAssured.get;
-//import static io.restassured.RestAssured.given;
-//import static org.hamcrest.Matchers.hasItems;
 
 //import org.hamcrest.Matchers;
 import org.testng.annotations.DataProvider;
